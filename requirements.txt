@@ -1,0 +1,6 @@
+Flask
+numpy
+tensorflow
+flask-cors
+Pillow  # This is the correct package name for PIL
+opencv-python  # For cv2
